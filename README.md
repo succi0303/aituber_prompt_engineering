@@ -1,0 +1,2 @@
+# aituber_prompt_engineering
+書籍「AI Tuberを作ってみたらプロンプトエンジニアリングがよくわかった件」写経
